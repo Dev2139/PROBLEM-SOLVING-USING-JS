@@ -626,8 +626,3 @@ if(b[0].age>b[1].age && b[0].age>b[2].age){
 }
 }
 console.log(findMax())
-
-
-
-
-
